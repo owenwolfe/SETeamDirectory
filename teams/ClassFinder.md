@@ -1,2 +1,6 @@
+# Class Finder
 
-Tyler Wagenman https://github.com/Mernon
+## Developers
+
+- Ian Liggett - [IanTLiggett](https://github.com/IanTLiggett)
+- Tyler Wagenman - [TylerJWagenman](https://github.com/Mernon)
