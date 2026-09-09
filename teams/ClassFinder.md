@@ -1,4 +1,4 @@
-# Agreed
+# Class Finder
 
 ## Developers
 
