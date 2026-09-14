@@ -1,4 +1,4 @@
-# Class Finder
+# [Class Finder](https://github.com/owenwolfe/SETeamDirectory)
 
 ## Developers
 
